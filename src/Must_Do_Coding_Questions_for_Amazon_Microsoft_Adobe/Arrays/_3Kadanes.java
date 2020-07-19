@@ -7,7 +7,7 @@ package Must_Do_Coding_Questions_for_Amazon_Microsoft_Adobe.Arrays;
 
 import java.util.*;
 
-public class Kadanes {
+public class _3Kadanes {
     public static void solve(int [] arr){
         int len = arr.length;
         int max =0,output=Integer.MIN_VALUE,count=0;

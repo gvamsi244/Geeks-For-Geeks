@@ -7,7 +7,7 @@ import java.util.*;
  * @project Geeks For Geeks
  */
 
-public class SubarrayWithGivenSum {
+public class _1SubarrayWithGivenSum {
 
 
     public static void solve2(int[] arr, int s) {
