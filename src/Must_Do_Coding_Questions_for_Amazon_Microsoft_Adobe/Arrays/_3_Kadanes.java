@@ -1,11 +1,12 @@
 package Must_Do_Coding_Questions_for_Amazon_Microsoft_Adobe.Arrays;
 
+import java.util.*;
+
 /**
  * @author Vamsi Krishna Govada on 7/17/2020.
  * @project Geeks For Geeks
  */
 
-import java.util.*;
 
 public class _3_Kadanes {
     public static void solve(int [] arr){
