@@ -6,7 +6,7 @@ package Must_Do_Coding_Questions_for_Amazon_Microsoft_Adobe.Arrays;
  */
 
 import java.util.*;
-public class _2CountTheTriplets {
+public class _2_CountTheTriplets {
     public static void solve (int []arr){
         int count = 0, len = arr.length;
         Arrays.sort(arr);
